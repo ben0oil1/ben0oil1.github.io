@@ -5,7 +5,6 @@ layout: post
 categories: ['测试','公众号']
 tags: ['tag1','tag2']
 author: 艾希
-permalink: /4aCtsHnw
 ---
 ![]({{"/assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_2bc4fb.jpg" | relative_url}})
 

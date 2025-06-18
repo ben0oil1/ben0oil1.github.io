@@ -5,8 +5,9 @@ layout:post
 categories: ['测试','公众号']
 tags: ['tag1','tag2']
 author: 艾希
+permalink: /4aCtsHnw
 ---
-![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_2bc4fb.jpg"}})
+![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_2bc4fb.jpg" | releative_url}})
 
 本文来自微信公众号：毒眸，作者：艾希，编辑：刘南豆，题图来自：视觉中国
 
@@ -14,7 +15,7 @@ author: 艾希
 
 邓紫棋在15岁时与前司蜂鸟音乐签下的合同，把自己所写作的歌曲的音乐作品著作权及录音制作者权全都交给了公司代理。
 
-![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_39070e.jpg"}})
+![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_39070e.jpg" | releative_url}})
 
 邓紫棋对自己经历的诉说（图源：@GEM鄧紫棋）
 
@@ -34,7 +35,7 @@ author: 艾希
 
 她呼吁所有听自己音乐的人，都可以来支持这一张专辑。因为只有听她重录的版本，版税才归她所有，原版的版权价值才能贬值，她未来也才有更多和前司的议价权。
 
-![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_5425e3.jpg"}})
+![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_5425e3.jpg" | releative_url}})
 
 邓紫棋呼吁大家支持重录专辑（图源：@GEM鄧紫棋）
 
@@ -46,7 +47,7 @@ author: 艾希
 
 2022年1月，苏打绿发布了“同名专辑（苏打绿版）”，宣布开启自己专辑的复刻计划。3月4日，吴青峰发布社交媒体，呼吁大家“不要听苏打绿的歌”，因为虽然苏打绿这个名字回来了，但是之前苏打绿版本的所有音乐母带版权都不在自己手上且被“非法利用”。“可以的话，请大家别再在所有平台上听旧版了，你的每一次收听，都是助纣为虐，都是在给有心人士子弹想办法整我们。”
 
-![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_b342a4.jpg"}})
+![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_b342a4.jpg" | releative_url}})
 
 他没有展开说“非法利用”是什么原因，但如果音乐母带版权（可以理解为上文的录音制作者权）不在他手上，那么每一次收听，都是在为林暐哲增加版税收入。
 
@@ -82,7 +83,7 @@ author: 艾希
 
 14岁写出《静止》的大张伟，组建了花儿乐队，一家公司支付了10万元与他们签订合同。但直到解约时大张伟才发现，不仅在这家公司发行的歌曲录音制作者权不归他所有，甚至连音乐作品著作权都是公司的。后来成名后，他曾尝试去沟通是否可以授权演唱，公司开出了天价。后来大张伟在节目上重新编曲，公司还追到了流媒体平台，要求下架这首歌。逼得大张伟发微博大骂，“我真的已经TM烦了！”
 
-![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_763e1f.jpg"}})
+![]({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_763e1f.jpg" | releative_url}})
 
 当唱作歌手不享有版权
 
@@ -108,7 +109,7 @@ author: 艾希
 
 泰勒·斯威夫特在拿回自己的版权后，在INS发了长文陈述自己的心路历程。长文的最后她说：“我也因这段旅程激发了行业内外的对话而备受鼓舞。每一次新艺术家为了争取拥有自己的主权而重新谈判合约时，我都深深地体会到这场抗争的重要意义。”
 
-![({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_700507.jpg"}})
+![({{"assets/images/Mgj1SFUHPEpdXn4aCtsHnw/1750259042_700507.jpg" | releative_url}})
 
 泰勒在INS发的长文
 

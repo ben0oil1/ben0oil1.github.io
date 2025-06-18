@@ -1,12 +1,12 @@
 title: Puerh Blog
 description: A blog for puerh
 theme: jekyll-theme-minimal
-permalink: title
+permalink: /:title
 paginate_path: /page/:num
 paginate: 5
 
 baseurl: 
-url: 
+url: https://ben0oil1.github.io 
 og_image: /assets/img/profile-pic.jpg
 google_analytics: 
 

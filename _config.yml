@@ -5,7 +5,7 @@ permalink: /:title
 paginate_path: /page/:num
 paginate: 5
 
-baseurl: '/'
+baseurl: '/bay'
 url: https://ben0oil1.github.io 
 og_image: /assets/img/profile-pic.jpg
 google_analytics: 
